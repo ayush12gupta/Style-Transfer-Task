@@ -1,6 +1,6 @@
 # Dashtoon Task
 
-This file provides instructions for setting up and running the style transfer algorithm
+This file provides instructions for setting up and running the style transfer model
 
 ## Setup
 
